@@ -144,13 +144,13 @@ garantido. Isso facilita a organização e a velocidade no manuseio das informa�
 
 
 
-                                                             Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortávelPode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortávelDesvantagem: Segurança
+ Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortávelPode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortávelDesvantagem: Segurança
                                                               
                                                               
                                                               
-             Todo o conteúdo desenvolvido é cuidado pelo provedor do serviço.Ou seja, a segurança não está nas mãos da empresa dona dos dados e que criou o aplicativo.
+Todo o conteúdo desenvolvido é cuidado pelo provedor do serviço.Ou seja, a segurança não está nas mãos da empresa dona dos dados e que criou o aplicativo.
                      
-              Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortável                                                                                                                     
+Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é algo que pode ser desconfortável                                                                                                                     
     
     
     
@@ -158,8 +158,8 @@ garantido. Isso facilita a organização e a velocidade no manuseio das informa�
                                                                           🔴𝑭𝒂𝒂𝑺🔴
                                                                           
                                                                           
-                é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
-                 recursos sem a necessidade de construírem ou manterem uma infraestrutura complexa.        
+ é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
+  recursos sem a necessidade de construírem ou manterem uma infraestrutura complexa.        
                  
                  
                                                                             🔴Exemplos de FaaS🔴
