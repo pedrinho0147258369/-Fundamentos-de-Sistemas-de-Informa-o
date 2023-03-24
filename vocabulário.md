@@ -87,14 +87,14 @@ Entre os principais exemplos de SaaS disponíveis e mais populares, podemos cita
                                                                                   
                                                                                   
                                                                                   
-                                                             🔴Vantagens do SaaS🔴
+                                                         🔴Vantagens do SaaS🔴
 Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, principalmente em decorrência dos benefícios que elas proporcionam para empresas de vários nichos e portes diferentes. Nos tópicos a seguir, falaremos mais sobre essas vantagens.
 
 
 
-                                                            🔴𝑰𝒂𝒂𝑺🔴
+                                                           🔴𝑰𝒂𝒂𝑺🔴
                                                                                      
-                                                            🔴O QUE É🔴
+                                                           🔴O QUE É🔴
                                                                                      
    IaaS é Uma forma de Computação em Nuvem onde toda a infraestrututa, como Servidores,
      Redes e Armazenada, Por Exemplo, É disponibilizada pela Internet para facilitar o fornecimento
@@ -105,7 +105,7 @@ Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, princ
     No entanto, esse tipo de serviço costuma ser contratado para uso em ambientes de desenvolvimento, testes de aplicativos,
     armazenamento, backups, computação de alto desempenho e análise de grandes volumes de dados.
  
-                                                                             🔴Vantagens🔴
+                                                          🔴Vantagens🔴
 Flexibilidade: o cliente pode adquirir apenas os componentes essenciais para seu uso e, caso seja necessário, aumentar ou reduzir os recursos;
 Velocidade: é possível alocar pequenas ou grandes quantidades de recursos em questão de minutos;
 Economia: a IaaS consegue ser uma opção mais econômica. Afinal, o cliente só paga por aquilo que usar e não tem custos de manutenção;
@@ -116,7 +116,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
     
     
     
-                                                                            🔴𝑷𝒂𝒂𝑺🔴
+                                                            🔴𝑷𝒂𝒂𝑺🔴
     
     
    Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
@@ -154,14 +154,14 @@ Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é
     
     
     
-                                                                     🔴𝑭𝒂𝒂𝑺🔴
+                                                               🔴𝑭𝒂𝒂𝑺🔴
                                                                           
                                                                           
  é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
   recursos sem a necessidade de construírem ou manterem uma infraestrutura complexa.        
                  
                  
-                                                                   🔴Exemplos de FaaS🔴
+                                                               🔴Exemplos de FaaS🔴
 A Rapyd é um exemplo de fintech as a service em destaque pelo mundo. A startup permite que consumidores ou empresas paguem ou sejam pagos em
 transações locais ou internacionais. A startup está sendo olhada de perto pelos investidores. Ela recebeu recentemente uma rodada de R$ 100 milhões.
 
@@ -170,7 +170,7 @@ transações locais ou internacionais. A startup está sendo olhada de perto pel
                                                                           
     
    
-                                                                      🔴𝑩𝒂𝒂𝑺🔴
+                                                                🔴𝑩𝒂𝒂𝑺🔴
                                                                              
    Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
     de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
