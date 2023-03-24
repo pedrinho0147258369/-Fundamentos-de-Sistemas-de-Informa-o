@@ -64,31 +64,30 @@ A computação em nuvem tem se tornado cada vez mais popular em todo o mundo dev
 
 
 
-                                                                             🔴𝑺𝒂𝒂𝑺🔴
+                                                                   🔴𝑺𝒂𝒂𝑺🔴
                                                                                
-                                                                         🔴O que é SaaS?🔴
+                                                               🔴O que é SaaS?🔴
                                                                           
 SaaS é a sigla para Software as a Service — ou Software como Serviço, em português. Nesse modelo, o sistema não é comercializado como um produto, mas sim como serviço, como o próprio nome sugere. Assim, não é feita a instalação de nenhum programa nos equipamentos e as aplicações são usadas pela internet.
 
 Existem versões gratuitas (como o Gmail) e as pagas (como o Office 365), que atendem a rotinas pessoais e profissionais. Isso quer dizer que agora as empresas podem contar com sistemas de gestão na nuvem e com uma solução personalizada, de acordo com as necessidades do negócio.
 
-                                                                             EXEMPLOS 
+                                                                  EXEMPLOS 
  
-
-                                     Entre os principais exemplos de SaaS disponíveis e mais populares, podemos citar:
+Entre os principais exemplos de SaaS disponíveis e mais populares, podemos citar:
  
-                                                                                 🔴Dropbox🔴
-                                                                                 🔴Google Drive🔴
-                                                                                 🔴Salesforce🔴
-                                                                                 🔴Google Analytics🔴
-                                                                                 🔴Zendesk🔴
-                                                                                 🔴Netflix🔴
-                                                                                  🔴Paypal🔴
+                                                                     🔴Dropbox🔴
+                                                                     🔴Google Drive🔴
+                                                                     🔴Salesforce🔴
+                                                                     🔴Google Analytics🔴
+                                                                     🔴Zendesk🔴
+                                                                     🔴Netflix🔴
+                                                                     🔴Paypal🔴
                                                                                   
                                                                                   
                                                                                   
                                                                                   
-                                                                   🔴Vantagens do SaaS🔴
+                                                             🔴Vantagens do SaaS🔴
 Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, principalmente em decorrência dos benefícios que elas proporcionam para empresas de vários nichos e portes diferentes. Nos tópicos a seguir, falaremos mais sobre essas vantagens.
 
 
@@ -125,7 +124,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
      
      
      
-                           🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
+ 🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
 
 Ferramentas de desenvolvimento, gerenciamento de banco de dados, análise de negócios;
 Sistemas operacionais;
@@ -136,7 +135,7 @@ Construção/planta física do datacenter
 
                                                      
                                                      
-                                                              🔴Vantagem de  Gerenciamento🔴
+                                                            🔴Vantagem de  Gerenciamento🔴
                                                               
 Por ser um ambiente projetado exclusivamente para o desenvolvimento dos aplicativos da empresa, uma maior facilidade no gerenciamento de um grande volume de dados passa a ser
 garantido. Isso facilita a organização e a velocidade no manuseio das informações mais importantes do projeto.
@@ -155,14 +154,14 @@ Pode parecer pouco, mas deixar nas mãos de terceiros cada detalhe do projeto é
     
     
     
-                                                                          🔴𝑭𝒂𝒂𝑺🔴
+                                                                     🔴𝑭𝒂𝒂𝑺🔴
                                                                           
                                                                           
  é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
   recursos sem a necessidade de construírem ou manterem uma infraestrutura complexa.        
                  
                  
-                                                                            🔴Exemplos de FaaS🔴
+                                                                   🔴Exemplos de FaaS🔴
 A Rapyd é um exemplo de fintech as a service em destaque pelo mundo. A startup permite que consumidores ou empresas paguem ou sejam pagos em
 transações locais ou internacionais. A startup está sendo olhada de perto pelos investidores. Ela recebeu recentemente uma rodada de R$ 100 milhões.
 
@@ -171,7 +170,7 @@ transações locais ou internacionais. A startup está sendo olhada de perto pel
                                                                           
     
    
-                                                                             🔴𝑩𝒂𝒂𝑺🔴
+                                                                      🔴𝑩𝒂𝒂𝑺🔴
                                                                              
    Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
     de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
