@@ -97,12 +97,12 @@ Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, princ
                                                                                      
                                                                                   🔴O QUE É🔴
                                                                                      
-     IaaS é Uma forma de Computação em Nuvem onde toda a infraestrututa, como Servidores,
+   IaaS é Uma forma de Computação em Nuvem onde toda a infraestrututa, como Servidores,
      Redes e Armazenada, Por Exemplo, É disponibilizada pela Internet para facilitar o fornecimento
      de recursos essenciais para a criação de um ambiente sob demanda.
      
      
-    A IaaS representa um conjunto de recursos de computação de uso geral, podendo ser aplicada em diversas áreas da tecnologia.
+   A IaaS representa um conjunto de recursos de computação de uso geral, podendo ser aplicada em diversas áreas da tecnologia.
     No entanto, esse tipo de serviço costuma ser contratado para uso em ambientes de desenvolvimento, testes de aplicativos,
     armazenamento, backups, computação de alto desempenho e análise de grandes volumes de dados.
  
@@ -120,12 +120,12 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
                                                                             🔴𝑷𝒂𝒂𝑺🔴
     
     
-    Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
-     Ele hospeda toda uma infraestrutura e um ambiente para o desenvolvimento, execução e gerenciamento de aplicativos variados.
+   Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
+    Ele hospeda toda uma infraestrutura e um ambiente para o desenvolvimento, execução e gerenciamento de aplicativos variados.
      
      
      
-                                                   🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
+                           🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
 
 Ferramentas de desenvolvimento, gerenciamento de banco de dados, análise de negócios;
 Sistemas operacionais;
@@ -173,15 +173,15 @@ transações locais ou internacionais. A startup está sendo olhada de perto pel
    
                                                                              🔴𝑩𝒂𝒂𝑺🔴
                                                                              
-    Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
-     de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
+   Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
+    de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
      
                                                                    
                                                                 🔴COMO FUNCIONA A BaaS🔴
    
      
-     O BaaS funciona ligando empresas que querem oferecer serviços financeiros justamente àquelas que já o fazem.
-     Na prática, a sigla quer dizer que alguém está oferecendo “operações de banco” como um serviço de suas plataformas.
+   O BaaS funciona ligando empresas que querem oferecer serviços financeiros justamente àquelas que já o fazem.
+   Na prática, a sigla quer dizer que alguém está oferecendo “operações de banco” como um serviço de suas plataformas.
      
      
                                                                  🔴vantagens da BaaS🔴
