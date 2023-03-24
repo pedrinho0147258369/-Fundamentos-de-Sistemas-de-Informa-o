@@ -1,7 +1,7 @@
-                                                                 𝑺𝑰𝑺𝑻𝑬𝑴𝑨 𝑫𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑨ÇÃ𝑶
+                                                                𝑺𝑰𝑺𝑻𝑬𝑴𝑨 𝑫𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑨ÇÃ𝑶
                                                                   
                                                                    
-                                                                          🔴𝑻𝑪𝑷/𝑰𝑷🔴
+                                                                      🔴𝑻𝑪𝑷/𝑰𝑷🔴
                                                                                                                            
       
       🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
@@ -21,7 +21,7 @@ O modelo TCP/IP é amplamente utilizado como base para o desenvolvimento e confi
 
 
 
-                                                                         🔴𝑪𝑶𝑴𝑷𝑼𝑻𝑨ÇÃ𝑶 𝑬𝑴 𝑴𝑼𝑽𝑬𝑴🔴
+                                                                    🔴𝑪𝑶𝑴𝑷𝑼𝑻𝑨ÇÃ𝑶 𝑬𝑴 𝑴𝑼𝑽𝑬𝑴🔴
                                                                          
                                                                          
                                                                          
@@ -64,9 +64,9 @@ A computação em nuvem tem se tornado cada vez mais popular em todo o mundo dev
 
 
 
-                                                                               🔴𝑺𝒂𝒂𝑺🔴
+                                                                             🔴𝑺𝒂𝒂𝑺🔴
                                                                                
-                                                                          🔴O que é SaaS?🔴
+                                                                         🔴O que é SaaS?🔴
                                                                           
 SaaS é a sigla para Software as a Service — ou Software como Serviço, em português. Nesse modelo, o sistema não é comercializado como um produto, mas sim como serviço, como o próprio nome sugere. Assim, não é feita a instalação de nenhum programa nos equipamentos e as aplicações são usadas pela internet.
 
