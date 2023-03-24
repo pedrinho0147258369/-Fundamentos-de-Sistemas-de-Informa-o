@@ -53,7 +53,7 @@ Os principais benefícios da computação em nuvem são:
 
 🔴Google Cloud Platform: oferece serviços de IaaS, PaaS e SaaS, bem como acesso às tecnologias de inteligência artificial e análise de dados do Google.
 
-🔴A computação em nuvem tem se tornado cada vez mais popular em todo o mundo devido aos benefícios que oferece em termos de escalabilidade, flexibilidade e eficiência de custos. Com o aumento da demanda por serviços de computação em nuvem, espera-se que essa tecnologia continue a evoluir e a fornecer ainda mais recursos e benefícios para as empresas e usuários finais.🔴
+A computação em nuvem tem se tornado cada vez mais popular em todo o mundo devido aos benefícios que oferece em termos de escalabilidade, flexibilidade e eficiência de custos. Com o aumento da demanda por serviços de computação em nuvem, espera-se que essa tecnologia continue a evoluir e a fornecer ainda mais recursos e benefícios para as empresas e usuários finais.
 
 
 
