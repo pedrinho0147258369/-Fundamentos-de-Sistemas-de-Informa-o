@@ -31,29 +31,29 @@ Computação em nuvem é um modelo de entrega de serviços de computação, incl
 
 Os principais benefícios da computação em nuvem são:
 
-Escalabilidade: os usuários podem escalar rapidamente seus recursos de computação de acordo com as necessidades de seus negócios, sem a necessidade de investir em hardware adicional.
+🔴Escalabilidade: os usuários podem escalar rapidamente seus recursos de computação de acordo com as necessidades de seus negócios, sem a necessidade de investir em hardware adicional.
 
-Flexibilidade: a computação em nuvem permite que os usuários acessem recursos de computação em qualquer lugar, a qualquer momento e de qualquer dispositivo, desde que tenham uma conexão com a Internet.
+🔴Flexibilidade: a computação em nuvem permite que os usuários acessem recursos de computação em qualquer lugar, a qualquer momento e de qualquer dispositivo, desde que tenham uma conexão com a Internet.
 
-Eficiência de custos: os usuários podem pagar apenas pelos recursos de computação que utilizam, sem a necessidade de investir em hardware adicional ou manter uma infraestrutura de TI cara.
+🔴Eficiência de custos: os usuários podem pagar apenas pelos recursos de computação que utilizam, sem a necessidade de investir em hardware adicional ou manter uma infraestrutura de TI cara.
 
-Os principais tipos de serviços de computação em nuvem são:
+🔴Os principais tipos de serviços de computação em nuvem são:
 
-IaaS (Infrastructure as a Service): serviços que fornecem recursos de infraestrutura, como servidores, armazenamento e rede, para os usuários construírem suas próprias aplicações.
+🔴IaaS (Infrastructure as a Service): serviços que fornecem recursos de infraestrutura, como servidores, armazenamento e rede, para os usuários construírem suas próprias aplicações.
 
-PaaS (Platform as a Service): serviços que fornecem uma plataforma completa para os usuários desenvolverem, executarem e gerenciarem suas próprias aplicações.
+🔴PaaS (Platform as a Service): serviços que fornecem uma plataforma completa para os usuários desenvolverem, executarem e gerenciarem suas próprias aplicações.
 
-SaaS (Software as a Service): serviços que fornecem aplicativos completos para os usuários acessarem e utilizarem diretamente pela Internet, sem a necessidade de instalação ou manutenção de software local.
+🔴SaaS (Software as a Service): serviços que fornecem aplicativos completos para os usuários acessarem e utilizarem diretamente pela Internet, sem a necessidade de instalação ou manutenção de software local.
 
-Os principais provedores de computação em nuvem são:
+🔴Os principais provedores de computação em nuvem são:
 
-Amazon Web Services (AWS): oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
+🔴Amazon Web Services (AWS): oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
 
-Microsoft Azure: oferece serviços de IaaS, PaaS e SaaS, bem como integração com as ferramentas de desenvolvimento e produtividade da Microsoft.
+🔴Microsoft Azure: oferece serviços de IaaS, PaaS e SaaS, bem como integração com as ferramentas de desenvolvimento e produtividade da Microsoft.
 
-Google Cloud Platform: oferece serviços de IaaS, PaaS e SaaS, bem como acesso às tecnologias de inteligência artificial e análise de dados do Google.
+🔴Google Cloud Platform: oferece serviços de IaaS, PaaS e SaaS, bem como acesso às tecnologias de inteligência artificial e análise de dados do Google.
 
-A computação em nuvem tem se tornado cada vez mais popular em todo o mundo devido aos benefícios que oferece em termos de escalabilidade, flexibilidade e eficiência de custos. Com o aumento da demanda por serviços de computação em nuvem, espera-se que essa tecnologia continue a evoluir e a fornecer ainda mais recursos e benefícios para as empresas e usuários finais.
+🔴A computação em nuvem tem se tornado cada vez mais popular em todo o mundo devido aos benefícios que oferece em termos de escalabilidade, flexibilidade e eficiência de custos. Com o aumento da demanda por serviços de computação em nuvem, espera-se que essa tecnologia continue a evoluir e a fornecer ainda mais recursos e benefícios para as empresas e usuários finais.🔴
 
 
 
