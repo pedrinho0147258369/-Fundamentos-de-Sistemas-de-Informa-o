@@ -104,7 +104,7 @@ Construção/planta física do datacenter
 
                                                      
                                                      
-                                                              🔴Vantagem: Gerenciamento🔴
+                                                              🔴Vantagem de  Gerenciamento🔴
                                                               
 Por ser um ambiente projetado exclusivamente para o desenvolvimento dos aplicativos da empresa, uma maior facilidade no gerenciamento de um grande volume de dados passa a ser
 garantido. Isso facilita a organização e a velocidade no manuseio das informações mais importantes do projeto.
