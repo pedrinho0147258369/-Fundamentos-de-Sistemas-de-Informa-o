@@ -88,7 +88,7 @@ Existem versões gratuitas (como o Gmail) e as pagas (como o Office 365), que at
                                                                                   
                                                                                   
                                                                                   
-                                                                             🔴Vantagens do SaaS🔴
+                                                                   🔴Vantagens do SaaS🔴
 Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, principalmente em decorrência dos benefícios que elas proporcionam para empresas de vários nichos e portes diferentes. Nos tópicos a seguir, falaremos mais sobre essas vantagens.
 
 
