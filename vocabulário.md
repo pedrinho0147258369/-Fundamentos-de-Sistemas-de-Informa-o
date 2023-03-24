@@ -1,10 +1,25 @@
-      SISTEMA DE INFORMAÇÃO
-      COMPUTAÇÃO EM MUVEM
+                                                                  SISTEMA DE INFORMAÇÃO
+                                                                  
+                                                       
       
-      - O que é?
-- Como funciona? Modelo TCP/IP
-- Vantagens
-- Categorias ou modelos (para cada um dos modelos, trazer explicação básica (o que é e como funciona), um exemplo de empresa/tecnologia)
+    
+      
+      
+      🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
+
+
+🔴Camada de Transporte: é responsável por controlar o fluxo de dados entre a origem e o destino, garantindo que a informação chegue de maneira correta e organizada. Dois protocolos comuns dessa camada são o TCP (Transmission Control Protocol) e o UDP (User Datagram Protocol).
+
+
+🔴Camada de Internet: é responsável por encaminhar pacotes de dados de uma rede para outra, através de um endereço IP. O protocolo mais utilizado nessa camada é o IP (Internet Protocol).
+
+
+🔴Camada de Acesso à Rede: é responsável por definir a forma como os dados serão transmitidos na rede. Nesta camada, estão os protocolos que definem as características da interface de rede, como o Ethernet.
+
+
+O modelo TCP/IP é amplamente utilizado como base para o desenvolvimento e configuração de redes de computadores em todo o mundo. Ele oferece uma estrutura bem definida e organizada, facilitando a implementação e manutenção das redes.
+
+
 
 
 
