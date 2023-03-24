@@ -1,7 +1,7 @@
                                                                  𝑺𝑰𝑺𝑻𝑬𝑴𝑨 𝑫𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑨ÇÃ𝑶
                                                                   
                                                                    
-                                                                          🔴TCP/IP🔴
+                                                                          🔴𝑻𝑪𝑷/𝑰𝑷🔴
                                                                                                                            
       
       🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
@@ -21,7 +21,7 @@ O modelo TCP/IP é amplamente utilizado como base para o desenvolvimento e confi
 
 
 
-                                                                         🔴COMPUTAÇÃO EM MUVEM🔴
+                                                                         🔴𝑪𝑶𝑴𝑷𝑼𝑻𝑨ÇÃ𝑶 𝑬𝑴 𝑴𝑼𝑽𝑬𝑴🔴
                                                                          
                                                                          
                                                                          
@@ -64,7 +64,7 @@ A computação em nuvem tem se tornado cada vez mais popular em todo o mundo dev
 
 
 
-                                                                               🔴SaaS🔴
+                                                                               🔴𝑺𝒂𝒂𝑺🔴
                                                                                
                                                                           🔴O que é SaaS?🔴
                                                                           
@@ -90,7 +90,7 @@ Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, princ
 
 
 
-                                                                                  🔴IaaS🔴
+                                                                                  🔴𝑰𝒂𝒂𝑺🔴
                                                                                      
                                                                                   🔴O QUE É🔴
                                                                                      
@@ -114,7 +114,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
     
     
     
-                                                                            🔴PaaS🔴
+                                                                            🔴𝑷𝒂𝒂𝑺🔴
     
     
     Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
@@ -152,7 +152,7 @@ garantido. Isso facilita a organização e a velocidade no manuseio das informa�
     
     
     
-                                                                          🔴FaaS🔴
+                                                                          🔴𝑭𝒂𝒂𝑺🔴
                                                                           
                                                                           
                 é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
@@ -168,7 +168,7 @@ transações locais ou internacionais. A startup está sendo olhada de perto pel
                                                                           
     
    
-                                                                             🔴BaaS🔴
+                                                                             🔴𝑩𝒂𝒂𝑺🔴
                                                                              
     Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
      de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
@@ -205,7 +205,7 @@ BaaS entrega para empresas processos de ponta a ponta, tudo de forma online. Tam
     
     
     
-                                                                      🔴HaaS🔴
+                                                                      🔴𝑯𝒂𝒂𝑺🔴
                                                                       
                                                                       
    No Hardware as a Service (HAAS ou Hardware como Service), você aluga computadores, impressoras, scanners, tablets, acessórios e outros equipamentos em vez de adquiri-los. No entanto, o HAAS não engloba somente os aparelhos em si, também são disponibilizados e oferecidos outros serviços para o negócio, como:
