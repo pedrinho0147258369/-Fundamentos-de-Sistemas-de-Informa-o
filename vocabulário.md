@@ -92,9 +92,9 @@ Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, princ
 
 
 
-                                                                                  🔴𝑰𝒂𝒂𝑺🔴
+                                                            🔴𝑰𝒂𝒂𝑺🔴
                                                                                      
-                                                                                  🔴O QUE É🔴
+                                                            🔴O QUE É🔴
                                                                                      
    IaaS é Uma forma de Computação em Nuvem onde toda a infraestrututa, como Servidores,
      Redes e Armazenada, Por Exemplo, É disponibilizada pela Internet para facilitar o fornecimento
