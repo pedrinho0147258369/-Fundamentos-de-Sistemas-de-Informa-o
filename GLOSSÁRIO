@@ -1,20 +1,20 @@
-                                                               𝑺𝑰𝑺𝑻𝑬𝑴𝑨 𝑫𝑬 𝑰𝑵𝑭𝑶𝑹𝑴𝑨ÇÃ𝑶
+   
                                                                
                                                                
                                                                   🔴𝑻𝑪𝑷/𝑰𝑷🔴
-🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador,
+Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador,
 como e-mail, navegação na web, transferência de arquivos, entre outros.
 
 
-🔴Camada de Transporte: é responsável por controlar o fluxo de dados entre a origem e o destino, garantindo que a informação chegue de maneira correta e organizada.
+Camada de Transporte: é responsável por controlar o fluxo de dados entre a origem e o destino, garantindo que a informação chegue de maneira correta e organizada.
  Dois protocolos comuns dessa camada são o TCP (Transmission Control Protocol) e o UDP (User Datagram Protocol).
  
  
-🔴Camada de Internet: é responsável por encaminhar pacotes de dados de uma rede para outra, através de um endereço IP. 
+Camada de Internet: é responsável por encaminhar pacotes de dados de uma rede para outra, através de um endereço IP. 
 O protocolo mais utilizado nessa camada é o IP (Internet Protocol).
 
 
-🔴Camada de Acesso à Rede: é responsável por definir a forma como os dados serão transmitidos na rede. Nesta camada, estão os protocolos que definem as 
+Camada de Acesso à Rede: é responsável por definir a forma como os dados serão transmitidos na rede. Nesta camada, estão os protocolos que definem as 
 características da interface de rede, como o Ethernet.
 
 
@@ -29,45 +29,45 @@ Computação em nuvem é um modelo de entrega de serviços de computação, incl
  
 Os principais benefícios da computação em nuvem são:
 
-🔴Escalabilidade: os usuários podem escalar rapidamente seus recursos de computação de acordo com as necessidades de seus negócios, sem a necessidade de 
+Escalabilidade: os usuários podem escalar rapidamente seus recursos de computação de acordo com as necessidades de seus negócios, sem a necessidade de 
 investir em hardware adicional.
 
 
-🔴Flexibilidade: a computação em nuvem permite que os usuários acessem recursos de computação em qualquer lugar, a qualquer momento e de qualquer dispositivo,
+Flexibilidade: a computação em nuvem permite que os usuários acessem recursos de computação em qualquer lugar, a qualquer momento e de qualquer dispositivo,
 desde que tenham uma conexão com a Internet.
 
 
-🔴Eficiência de custos: os usuários podem pagar apenas pelos recursos de computação que utilizam, sem a necessidade de investir em hardware adicional ou manter
+Eficiência de custos: os usuários podem pagar apenas pelos recursos de computação que utilizam, sem a necessidade de investir em hardware adicional ou manter
  uma infraestrutura de TI cara.
  
 
-🔴Os principais tipos de serviços de computação em nuvem são:
+Os principais tipos de serviços de computação em nuvem são:
 
 
-🔴IaaS (Infrastructure as a Service): serviços que fornecem recursos de infraestrutura, como servidores, armazenamento e rede, para os usuários 
+IaaS (Infrastructure as a Service): serviços que fornecem recursos de infraestrutura, como servidores, armazenamento e rede, para os usuários 
 construírem suas próprias aplicações.
 
 
-🔴PaaS (Platform as a Service): serviços que fornecem uma plataforma completa para os usuários desenvolverem, executarem e gerenciarem suas próprias aplicações.
+PaaS (Platform as a Service): serviços que fornecem uma plataforma completa para os usuários desenvolverem, executarem e gerenciarem suas próprias aplicações.
 
 
-🔴SaaS (Software as a Service): serviços que fornecem aplicativos completos para os usuários acessarem e utilizarem diretamente pela Internet,
+SaaS (Software as a Service): serviços que fornecem aplicativos completos para os usuários acessarem e utilizarem diretamente pela Internet,
 sem a necessidade de instalação ou manutenção de software local.
 
 
-🔴Os principais provedores de computação em nuvem são:
+Os principais provedores de computação em nuvem são:
 
-🔴Amazon Web Services (AWS): oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
+Amazon Web Services (AWS): oferece uma ampla gama de serviços de computação em nuvem, incluindo IaaS, PaaS e SaaS.
 
-🔴Microsoft Azure: oferece serviços de IaaS, PaaS e SaaS, bem como integração com as ferramentas de desenvolvimento e produtividade da Microsoft.
+Microsoft Azure: oferece serviços de IaaS, PaaS e SaaS, bem como integração com as ferramentas de desenvolvimento e produtividade da Microsoft.
 
-🔴Google Cloud Platform: oferece serviços de IaaS, PaaS e SaaS, bem como acesso às tecnologias de inteligência artificial e análise de dados do Google.
+Google Cloud Platform: oferece serviços de IaaS, PaaS e SaaS, bem como acesso às tecnologias de inteligência artificial e análise de dados do Google.
 
 A computação em nuvem tem se tornado cada vez mais popular em todo o mundo devido aos benefícios que oferece em termos de escalabilidade, 
 flexibilidade e eficiência de custos. Com o aumento da demanda por serviços de computação em nuvem, espera-se que essa tecnologia continue
  a evoluir e a fornecer ainda mais recursos e benefícios para as empresas e usuários finais.
 
-                                                                🔴𝑺𝒂𝒂𝑺🔴
+                                                           🔴𝑺𝒂𝒂𝑺🔴
                                                                            
                                                            🔴O que é SaaS?🔴
 SaaS é a sigla para Software as a Service — ou Software como Serviço, em português. Nesse modelo, o sistema não é comercializado como um produto, mas sim como serviço,
@@ -116,7 +116,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
 Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
  Ele hospeda toda uma infraestrutura e um ambiente para o desenvolvimento, execução e gerenciamento de aplicativos variados.
 
-🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
+por exemplo, fornece os seguintes recursos em seu serviço:🔴
 
 Ferramentas de desenvolvimento, gerenciamento de banco de dados, análise de negócios; Sistemas operacionais; Servidores e armazenamento; 
 Segurança/firewalls de rede; Construção/planta física do datacenter
@@ -159,7 +159,8 @@ Segurança: os provedores de BaaS possuem recursos de segurança de back-end, co
                                                              
                                                              
                                                               🔴1. Atrair clientes🔴
-Ao permitir que seus clientes utilizem serviços financeiros de um jeito simples, a empresa atrai ainda mais usuários. Conhecendo esse consumidor, é possível, ainda, oferecer soluções que estejam de acordo com seu perfil.
+Ao permitir que seus clientes utilizem serviços financeiros de um jeito simples, a empresa atrai ainda mais usuários.
+Conhecendo esse consumidor, é possível, ainda, oferecer soluções que estejam de acordo com seu perfil.
 
                                                              🔴2. Facilitar pagamentos🔴
 Com o Banking as a Service, não é necessário depender de outras organizações para realizar operações financeiras. 
