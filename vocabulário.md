@@ -1,9 +1,8 @@
                                                                   SISTEMA DE INFORMAÇÃO
                                                                   
-                                                       
-      
-    
-      
+                                                                   
+                                                                          TCP/IP
+                                                                                                                           
       
       🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
 
