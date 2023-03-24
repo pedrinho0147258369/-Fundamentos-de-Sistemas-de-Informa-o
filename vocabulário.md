@@ -4,7 +4,7 @@
                                                                       🔴𝑻𝑪𝑷/𝑰𝑷🔴
                                                                                                                            
       
-      🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
+ 🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
 
 
 🔴Camada de Transporte: é responsável por controlar o fluxo de dados entre a origem e o destino, garantindo que a informação chegue de maneira correta e organizada. Dois protocolos comuns dessa camada são o TCP (Transmission Control Protocol) e o UDP (User Datagram Protocol).
