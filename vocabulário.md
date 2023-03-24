@@ -1,7 +1,7 @@
-                                                                  SISTEMA DE INFORMAÇÃO
+                                                                  🔴SISTEMA DE INFORMAÇÃO🔴
                                                                   
                                                                    
-                                                                          TCP/IP
+                                                                          🔴TCP/IP🔴
                                                                                                                            
       
       🔴Camada de Aplicação: é responsável por fornecer serviços de rede aos aplicativos que estão sendo executados no computador, como e-mail, navegação na web, transferência de arquivos, entre outros.
@@ -21,12 +21,23 @@ O modelo TCP/IP é amplamente utilizado como base para o desenvolvimento e confi
 
 
 
+                                                                         🔴COMPUTAÇÃO EM MUVEM🔴
+                                                                         
+                                                                         
+ computação em nuvem é um modelo de entrega de serviços de computação pela Internet, com base no compartilhamento de recursos de hardware e software, em vez de ter esses recursos localmente. É dividido em três modelos de serviços: Infraestrutura como serviço (IaaS), Plataforma como serviço (PaaS) e Software como serviço (SaaS).
+
+IaaS:
 
 
 
-                                                                               🔴SaaS
+
+
+
+
+
+                                                                               🔴SaaS🔴
                                                                                
-                                                                          🔴O que é SaaS?
+                                                                          🔴O que é SaaS?🔴
                                                                           
 SaaS é a sigla para Software as a Service — ou Software como Serviço, em português. Nesse modelo, o sistema não é comercializado como um produto, mas sim como serviço, como o próprio nome sugere. Assim, não é feita a instalação de nenhum programa nos equipamentos e as aplicações são usadas pela internet.
 
@@ -36,23 +47,23 @@ Existem versões gratuitas (como o Gmail) e as pagas (como o Office 365), que at
  
 
                                      Entre os principais exemplos de SaaS disponíveis e mais populares, podemos citar:
-
-                                                                               🔴 Dropbox;
-                                                                            🔴Google Drive;
-                                                                              🔴Salesforce;
-                                                                            🔴Google Analytics;
-                                                                                 🔴Zendesk;
-                                                                                 🔴Netflix;
-                                                                                  🔴Paypal.
+ 
+                                                                                 🔴Dropbox🔴
+                                                                                 🔴Google Drive🔴
+                                                                                 🔴Salesforce🔴
+                                                                                 🔴Google Analytics🔴
+                                                                                 🔴Zendesk🔴
+                                                                                 🔴Netflix🔴
+                                                                                  🔴Paypal🔴
                                                                                   
                                                                                  🔴Vantagens do SaaS
 Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, principalmente em decorrência dos benefícios que elas proporcionam para empresas de vários nichos e portes diferentes. Nos tópicos a seguir, falaremos mais sobre essas vantagens.
 
 
 
-                                                                                  🔴IaaS
+                                                                                  🔴IaaS🔴
                                                                                      
-                                                                                   🔴O QUE É 
+                                                                                  🔴O QUE É🔴
                                                                                      
      IaaS é Uma forma de Computação em Nuvem onde toda a infraestrututa, como Servidores,
      Redes e Armazenada, Por Exemplo, É disponibilizada pela Internet para facilitar o fornecimento
@@ -63,7 +74,7 @@ Empresas que fornecem soluções SaaS têm ganhado cada vez mais destaque, princ
     No entanto, esse tipo de serviço costuma ser contratado para uso em ambientes de desenvolvimento, testes de aplicativos,
     armazenamento, backups, computação de alto desempenho e análise de grandes volumes de dados.
  
-                                                                             🔴Vantagens
+                                                                             🔴Vantagens🔴
 Flexibilidade: o cliente pode adquirir apenas os componentes essenciais para seu uso e, caso seja necessário, aumentar ou reduzir os recursos;
 Velocidade: é possível alocar pequenas ou grandes quantidades de recursos em questão de minutos;
 Economia: a IaaS consegue ser uma opção mais econômica. Afinal, o cliente só paga por aquilo que usar e não tem custos de manutenção;
@@ -74,7 +85,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
     
     
     
-                                                                            🔴PaaS
+                                                                            🔴PaaS🔴
     
     
     Também conhecido como “Platform-as-a-Service”, este é um serviço de computação em nuvem oferecido por um provedor.
@@ -82,7 +93,7 @@ Segurança: um provedor de IaaS fornece métodos que garantem um alto nível de 
      
      
      
-                                                   🔴por exemplo, fornece os seguintes recursos em seu serviço:
+                                                   🔴por exemplo, fornece os seguintes recursos em seu serviço:🔴
 
 Ferramentas de desenvolvimento, gerenciamento de banco de dados, análise de negócios;
 Sistemas operacionais;
@@ -93,7 +104,7 @@ Construção/planta física do datacenter
 
                                                      
                                                      
-                                                              🔴Vantagem: Gerenciamento
+                                                              🔴Vantagem: Gerenciamento🔴
                                                               
 Por ser um ambiente projetado exclusivamente para o desenvolvimento dos aplicativos da empresa, uma maior facilidade no gerenciamento de um grande volume de dados passa a ser
 garantido. Isso facilita a organização e a velocidade no manuseio das informações mais importantes do projeto.
@@ -112,14 +123,14 @@ garantido. Isso facilita a organização e a velocidade no manuseio das informa�
     
     
     
-                                                                          🔴FaaS
+                                                                          🔴FaaS🔴
                                                                           
                                                                           
                 é uma das atualizações mais importantes dos serviços em nuvem, pois permite que os desenvolvedores criem e executem aplicativos e 
                  recursos sem a necessidade de construírem ou manterem uma infraestrutura complexa.        
                  
                  
-                                                                            🔴Exemplos de FaaS
+                                                                            🔴Exemplos de FaaS🔴
 A Rapyd é um exemplo de fintech as a service em destaque pelo mundo. A startup permite que consumidores ou empresas paguem ou sejam pagos em
 transações locais ou internacionais. A startup está sendo olhada de perto pelos investidores. Ela recebeu recentemente uma rodada de R$ 100 milhões.
 
@@ -128,34 +139,34 @@ transações locais ou internacionais. A startup está sendo olhada de perto pel
                                                                           
     
    
-                                                                             🔴BaaS
+                                                                             🔴BaaS🔴
                                                                              
     Banking as a Service, ou BaaS, é uma tecnologia cujo objetivo é permitir que qualquer empresa – independentemente do seu ramo
      de atuação – comece a oferecer produtos financeiros sem a necessidade de ser um banco ou instituição financeira. 
      
                                                                    
-                                                                🔴COMO FUNCIONA A BaaS
+                                                                🔴COMO FUNCIONA A BaaS🔴
    
      
      O BaaS funciona ligando empresas que querem oferecer serviços financeiros justamente àquelas que já o fazem.
      Na prática, a sigla quer dizer que alguém está oferecendo “operações de banco” como um serviço de suas plataformas.
      
      
-                                                                 🔴vantagens da BaaS
+                                                                 🔴vantagens da BaaS🔴
                                                                  
                                                                  
                                                                  
-                                                                  🔴1. Atrair clientes
+                                                                  🔴1. Atrair clientes🔴
                                                                   
 Ao permitir que seus clientes utilizem serviços financeiros de um jeito simples, a empresa atrai ainda mais usuários. Conhecendo esse consumidor, é possível, ainda, oferecer soluções que estejam de acordo com seu perfil. 
 
-                                                                 🔴2. Facilitar pagamentos
+                                                                 🔴2. Facilitar pagamentos🔴
                                                                  
 Com o Banking as a Service, não é necessário depender de outras organizações para realizar operações financeiras. Dessa forma, oferecendo opções de pagamento de boletos, cartões, transferências e outros serviços, a empresa torna esse tipo de operação mais simples.
 
 Ou seja, o BaaS oferece mais facilidade para o cliente final e também para a própria empresa.
 
-                                                                     🔴3. Praticidade
+                                                                     🔴3. Praticidade🔴
                                                                      
 BaaS entrega para empresas processos de ponta a ponta, tudo de forma online. Também traz como benefício a simplicidade tecnológica, já que os serviços são através de APIs. Contar com a experiência de empresas que têm o seu negócio focado nesta solução também pode significar mais segurança para o processo.
      
@@ -165,7 +176,7 @@ BaaS entrega para empresas processos de ponta a ponta, tudo de forma online. Tam
     
     
     
-                                                                      🔴HaaS
+                                                                      🔴HaaS🔴
                                                                       
                                                                       
    No Hardware as a Service (HAAS ou Hardware como Service), você aluga computadores, impressoras, scanners, tablets, acessórios e outros equipamentos em vez de adquiri-los. No entanto, o HAAS não engloba somente os aparelhos em si, também são disponibilizados e oferecidos outros serviços para o negócio, como:
@@ -184,15 +195,15 @@ BaaS entrega para empresas processos de ponta a ponta, tudo de forma online. Tam
 
 
 
-                                           🔴Quais são os benefícios que a sua empresa tem ao adotar o HAAS
+                                           🔴Quais são os benefícios que a sua empresa tem ao adotar o HAAS🔴
                                                
-                                          🔴Diminuição de custos na operação     
+                                          🔴Diminuição de custos na operação🔴     
                                           
-                                          🔴Mais flexibilidade para o seu negócio
+                                          🔴Mais flexibilidade para o seu negócio🔴
                                           
-                                          🔴Mais segurança
+                                          🔴Mais segurança🔴
                                           
-                                          🔴Suporte Constante e Manutenção constante
+                                          🔴Suporte Constante e Manutenção constante🔴
 
                                                
                                                                       
