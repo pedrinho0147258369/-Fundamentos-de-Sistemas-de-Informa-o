@@ -29,7 +29,7 @@ O modelo TCP/IP é amplamente utilizado como base para o desenvolvimento e confi
                                                                          
  computação em nuvem é um modelo de entrega de serviços de computação pela Internet, com base no compartilhamento de recursos de hardware e software, em vez de ter esses recursos localmente. É dividido em três modelos de serviços: Infraestrutura como serviço (IaaS), Plataforma como serviço (PaaS) e Software como serviço (SaaS).
 
-IaaS:
+
 
 
 
