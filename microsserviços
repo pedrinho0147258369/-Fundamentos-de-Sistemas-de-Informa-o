@@ -1,0 +1,39 @@
+                                                                    🔴O QUE SÃO/PARA QUE SERVE🔴
+
+
+🔴Microsserviços são uma abordagem arquitetônica e organizacional do desenvolvimento de software na qual o software consiste em pequenos serviços independentes 
+que se comunicam usando APIs bem definidas
+
+🔴As arquiteturas de microsserviços facilitam a escalabilidade e agilizam o desenvolvimento de aplicativos, habilitando a inovação e acelerando o tempo
+de introdução de novos recursos no mercado.
+                                       
+                                      
+                                        
+🔴A utilização de microsserviços facilita o desenvolvimento de múltiplos
+serviços ao mesmo tempo.Enquanto uma equipe cuida da melhoria de um
+serviços específico, outra pode, sem maiores percalços, implementar um
+novo serviços no ecossistema ou modificar um serviço distinto.
+
+
+
+                                                                        🔴VANTAGENS🔴
+                                     
+🔴Uma infraestrutura de microsserviços será muito mais eficiente do que uma arquitetura monolítica em relação aos recursos usados ao expandir. Você pode dividir o trabalho
+de desenvolvimento entre várias equipes. Cada serviço pode ser de propriedade de única uma equipe de desenvolvimento.
+
+
+
+
+                                                                     🔴ONDE SE APLICAM🔴
+                                                                       
+🔴Desenvolvimento e tese
+🔴Governança na implantação. 
+🔴Adequação a equipe.
+🔴Sigilo de informações
+🔴Independência.
+🔴Isolamento da falha.
+🔴Implantação fácil.
+🔴Manutenção mais eficiencia
+
+
+                                                                       
