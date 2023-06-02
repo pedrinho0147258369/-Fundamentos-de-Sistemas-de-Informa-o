@@ -1,0 +1,71 @@
+              
+                                               
+                                                              SISTEMA  UBÍGUA
+                  
+ Ambiente Inteligente: É um ambiente físico onde dispositivos e sistemas computacionais estão integrados para fornecer interações e serviços inteligentes aos usuários.
+
+Adaptabilidade: É a capacidade de um sistema se adaptar dinamicamente às mudanças no ambiente ou nas necessidades do usuário, ajustando-se automaticamente para fornecer uma experiência otimizada.
+
+Computação Ubíqua: Também conhecida como computação pervasiva, refere-se à integração de dispositivos e tecnologia de forma invisível e contínua no ambiente ao nosso redor.
+
+Context-Awareness: É a capacidade de um sistema de computação ubíqua reconhecer e responder ao contexto do usuário e do ambiente em que ele está inserido.
+
+Dispositivos Vestíveis: São dispositivos eletrônicos que podem ser usados como acessórios ou roupas, como smartwatches, óculos de realidade aumentada, entre outros.
+
+Internet das Coisas (IoT): Refere-se à rede de dispositivos físicos interconectados que podem coletar e trocar dados entre si sem a necessidade de intervenção humana direta.
+
+Interação Natural: Refere-se à interação com sistemas ubíquos de forma intuitiva e natural, por meio de gestos, voz, movimentos corporais, entre outros.
+
+Middleware: É uma camada de software que atua como intermediário entre aplicativos e dispositivos, permitindo a comunicação e a integração entre eles.
+
+Sensing: Refere-se ao uso de sensores para coletar dados do ambiente físico, como temperatura, luz, umidade, localização, entre outros.
+
+Serviços Ubíquos: São serviços disponibilizados por sistemas ubíquos que podem ser acessados a qualquer momento e em qualquer lugar, adaptando-se às necessidades e ao contexto do usuário. 
+
+
+                                                                     SISTEMA pervasivo
+                                                           
+                                                          
+      Pervasiva: Refere-se a algo que está amplamente presente e permeia diferentes aspectos ou áreas.
+
+Sistema Pervasivo: É um sistema de informação ou tecnologia que está amplamente presente, integrando-se de forma invisível e contínua ao ambiente.
+
+Ambiente Inteligente: É um ambiente físico onde dispositivos e sistemas computacionais estão integrados para fornecer interações e serviços inteligentes aos usuários.
+
+Conectividade: Refere-se à capacidade de os dispositivos estarem interconectados, permitindo a troca de dados e comunicação entre eles.
+
+Sensores: São dispositivos utilizados para coletar dados do ambiente físico, como temperatura, luz, umidade, localização, entre outros.
+
+Adaptabilidade: É a capacidade de um sistema se adaptar dinamicamente às mudanças no ambiente ou nas necessidades do usuário, ajustando-se automaticamente para fornecer uma experiência otimizada.
+
+Interação Transparente: Refere-se à interação com sistemas pervasivos de forma natural e invisível, sem que o usuário precise lidar com a complexidade dos sistemas subjacentes.
+
+Personalização: É a capacidade de um sistema pervasivo adaptar-se às necessidades e preferências individuais dos usuários, fornecendo serviços e informações relevantes.
+
+Context-Awareness: É a capacidade de um sistema pervasivo reconhecer e responder ao contexto do usuário e do ambiente em que ele está inserido.
+
+Internet das Coisas (IoT): Refere-se à rede de dispositivos físicos interconectados que podem coletar e trocar dados entre si sem a necessidade de intervenção humana direta.
+
+
+                                                                           MICROSSERVIÇO
+                                                                
+Microsserviço: É uma abordagem arquitetural que divide um sistema de software em componentes independentes, chamados de microsserviços, que são implantados e operam de forma autônoma.
+
+Arquitetura de Microsserviços: É um estilo arquitetural que se baseia na construção de um sistema como uma coleção de microsserviços independentes, cada um responsável por uma funcionalidade específica.
+
+Desenvolvimento Orientado a Microsserviços: É uma abordagem de desenvolvimento de software que enfatiza a construção de microsserviços independentes, permitindo a rápida implantação e evolução de cada componente.
+
+Escalabilidade Horizontal: Refere-se à capacidade de aumentar a capacidade de um sistema de software adicionando mais instâncias de microsserviços, em vez de dimensionar verticalmente uma única instância.
+
+Decomposição de Serviços: É o processo de dividir um sistema de software em microsserviços menores e mais especializados, permitindo uma melhor modularidade e manutenção.
+
+Comunicação entre Microsserviços: Refere-se à forma como os microsserviços interagem entre si, geralmente usando protocolos de comunicação como HTTP, gRPC ou mensagens assíncronas.
+
+Orquestração de Microsserviços: É o processo de gerenciar e coordenar a interação entre microsserviços, garantindo que as solicitações sejam roteadas corretamente e que a lógica de negócios seja executada de acordo.
+
+Descoberta de Serviço: É o mecanismo pelo qual os microsserviços são registrados e descobertos em um ambiente distribuído, permitindo a localização e comunicação entre eles.
+
+Tolerância a Falhas: É a capacidade de um sistema de software lidar com falhas em microsserviços individuais, permitindo que o sistema continue funcionando de forma resiliente.
+
+Monitoramento e Rastreamento: Refere-se às práticas e ferramentas utilizadas para monitorar o desempenho e a integridade dos microsserviços, além de rastrear as transações em todo o sistema.                                                                
+        
